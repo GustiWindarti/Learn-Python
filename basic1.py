@@ -1,13 +1,14 @@
 import math
 
 def main():
-    print('hello world')
+    print('Hello world!')
     print('=====================')
-    print('this is me')
-    print('you\'re looking for')
-    print('i can see it in your eyes')
-    print('i can see it in your smile')
-    print('you\'re all i ever wanted')
+    print('This is me.')
+    print('You\'re looking for.')
+    print('I can see it in your eyes.')
+    print('I can see it in your smile.')
+    print('You\'re all i ever wanted.')
+    print('And my arms are open wide.')
 
     price=12.30
     print(price * math.pi)
@@ -17,6 +18,8 @@ def main():
     print(c)
     
     print(2 * 3)
+
+    uselessprice=1209312312.12
 
     price1 = 12.6
     price2 = 100.56
