@@ -2,6 +2,7 @@ import math
 
 def main():
     print('hello world')
+    print('=====================')
     print('this is me')
     print('you\'re looking for')
     print('i can see it in your eyes')
