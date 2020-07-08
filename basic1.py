@@ -18,6 +18,8 @@ def main():
     
     print(2 * 3)
 
+    uselessprice=1209312312.12
+
     price1 = 12.6
     price2 = 100.56
     result = addStuff(price1, price2)
